@@ -1,6 +1,11 @@
 # Mini-Project
 # Heart Disease Prediction model
 
+## Aim:
+To predict whether a person will have a heart disease or not from certain medical
+conditions using data science tools.
+
+
 ## CODE:
 ```
 import pandas as pd
